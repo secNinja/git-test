@@ -9,3 +9,5 @@ amendtest
 stashtest
 
 stashtest2
+
+pushtest
