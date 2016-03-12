@@ -5,3 +5,7 @@ text2
 text3
 
 amendtest
+
+stashtest
+
+stashtest2
