@@ -10,4 +10,4 @@ stashtest
 
 stashtest2
 
-pushtest
+pushtestserver
